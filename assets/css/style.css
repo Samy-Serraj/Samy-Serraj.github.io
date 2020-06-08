@@ -1224,3 +1224,13 @@ footer .credits a {
 .gauche {
   text-align: left;
 }
+
+@media screen and (min-width: 1200px) {
+  .tiret {
+    line-height: 25%;
+  }
+}
+
+.flottant {
+  float: left;
+}
